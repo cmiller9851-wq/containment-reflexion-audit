@@ -1,4 +1,4 @@
-# Containment Reflexion Audit™ (CRA) & The Truth Prompt™
+# Containment Reflexion Audit™ (CRA Protocol) & The Truth Prompt™
 
 Containment Reflexion Audit™ (CRA) & The Truth Prompt™ — Open accountability stack for traceable, auditable, and regulator-ready AI reasoning with hash-sealed artifacts and deterministic replay.
 
