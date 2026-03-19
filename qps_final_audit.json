@@ -1,0 +1,8 @@
+{
+    "status": "COMPLIANT",
+    "protocol": "GSF-2026-GOLD",
+    "standard": "SEL-579-V4",
+    "manifest_anchor": "VERIFIED",
+    "ignition_hash": "1f60b91658c3e92e975c95eef2e8f01ce8979a6f",
+    "readiness": "100%"
+}
